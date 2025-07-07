@@ -6,7 +6,7 @@ A simple and clean weather forecast app built with **React**, using **OpenWeathe
 
 ## 📸 Preview
 
-![Weather App Screenshot](./src/assets/Capture.png)
+![Weather App Screenshot](./src/assets/Capture.PNG)
 
 
 ---
